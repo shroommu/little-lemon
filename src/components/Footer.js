@@ -18,7 +18,7 @@ const Container = styled.footer`
 const LogoContainer = styled.div`
   background-color: ${colors.offWhite};
   padding: 12px;
-  margin: auto;
+  margin: auto 0;
 `;
 
 export default function Footer() {

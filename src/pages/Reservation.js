@@ -1,3 +1,5 @@
+import { Heading1 } from "../components/Headings";
+
 export default function Reservation() {
-  return <main>Make a Reservation</main>;
+  return <Heading1>Make a Reservation</Heading1>;
 }

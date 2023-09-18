@@ -1,3 +1,5 @@
+import { Heading1 } from "../components/Headings";
+
 export default function Menu() {
-  return <main>Menu</main>;
+  return <Heading1>Menu</Heading1>;
 }

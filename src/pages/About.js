@@ -1,3 +1,5 @@
+import { Heading1 } from "../components/Headings";
+
 export default function About() {
-  return <main>About</main>;
+  return <Heading1>About</Heading1>;
 }
