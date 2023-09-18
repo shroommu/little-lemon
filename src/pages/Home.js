@@ -1,10 +1,10 @@
 import styled from "styled-components";
 import { Heading1, Heading2 } from "../components/Headings";
-import { Card } from "../components/Card";
-import { Paragraph } from "../components/Paragraph";
+import { Card } from "../components/basic/Card";
+import { Paragraph } from "../components/basic/Paragraph";
 
 import GreekSalad from "../assets/images/greekSalad.jpg";
-import { Button } from "../components/Button";
+import { Button } from "../components/basic/Button";
 import { colors, locations } from "../constants";
 import { Link } from "react-router-dom";
 

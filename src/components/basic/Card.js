@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { colors } from "../constants";
+import { colors } from "../../constants";
 
 export const Card = styled.section`
   background-color: ${(p) => p.background || colors.offWhite};
