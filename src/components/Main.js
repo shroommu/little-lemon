@@ -1,3 +1,3 @@
-export default function Main() {
-  return <main>Main</main>;
+export default function Main({ children }) {
+  return <main>{children}</main>;
 }
